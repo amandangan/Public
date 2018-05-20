@@ -1,6 +1,9 @@
-# May 20 DHBox Command Line
-    1  wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
-    2  sudo dpkg -i pandoc-1.19.2.1-1-amd64.deb
-    3  pandoc -v
-    4  history
-    5  history > dhbox-work-today.md
+    1  git remote add origin https://github.com/amandangan/Public.git
+    2  git push -u origin master
+    3  git remote add origin git remote add origin https://github.com/amandangan/Public.git
+    4  git push -u origin master
+    5  git add origin https://github.com/amandangan/Public.git
+    6  clear
+    7  git remote add origin https://github.com/amandangan/Public.git
+    8  git push -u origin master
+    9  history > dhbox-work-today.md
